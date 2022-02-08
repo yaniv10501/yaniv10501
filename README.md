@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey there 👋
+
+* I'm currently looking for work
+* I'm currently working on a messanger web app based on React.JS and Node.JS
 
 <!--
 **yaniv10501/yaniv10501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
