@@ -1,9 +1,8 @@
 ### Hey there 👋
 
-* I'm currently looking for work
-* I'm currently working on an open source messanger web app based on React.JS and Node.JS
-* [messenger](https://github.com/yaniv10501/messenger)
-* [messenger-api](https://github.com/yaniv10501/messenger-api)
+* I'm currently working at [Jika.io](https://jika.io)
+* I'm currently maintaining [90degreegames.com](https://90degreegames.com) (React, Node.js, Mongo)
+* Check out my [Portfolio](https://yanivportfolio.com)
 
 <!--
 **yaniv10501/yaniv10501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
