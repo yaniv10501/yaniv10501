@@ -2,7 +2,7 @@
 
 * I'm currently working at [Jika.io](https://jika.io)
 * I'm currently maintaining [90degreegames.com](https://90degreegames.com) (React, Node.js, Mongo)
-* I'm currently maintaining [IdleDuo.com](https://idleduo.com) (VanillaJS, Node.js, Mongo)
+* I'm currently maintaining [idleduo.com](https://idleduo.com) (VanillaJS, Node.js, Mongo)
 * Check out my [Portfolio](https://yanivportfolio.com)
 
 <!--
